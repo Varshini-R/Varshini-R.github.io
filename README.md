@@ -1,1 +1,1 @@
-https://github.com/Varshini-R/Varshini-R.github.io
+https://varshini-r.github.io
